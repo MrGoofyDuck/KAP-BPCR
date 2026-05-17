@@ -1,7 +1,7 @@
 # 🤱 KAP-BPCR — Predicting Birth Preparedness and Complication Readiness
 
 > **Binary classification of maternal health readiness among pregnant women in Ethiopia**  
-> Course: Design and Analysis of Algorithms · Instructor: Dr. Mekia Shigute Gaso
+> Course: Design and Analysis of Algorithms
 
 ---
 
